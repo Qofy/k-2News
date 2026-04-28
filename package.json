@@ -1,0 +1,17 @@
+{
+  "name": "k#2news",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^7.0.0",
+    "@types/bun": "latest",
+    "routify": "^2.0.1",
+    "svelte": "^5.55.5",
+    "vite": "^8.0.10"
+  }
+}
